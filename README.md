@@ -24,8 +24,10 @@ This portfolio website is easy to set up and get running on your local machine. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/Portfolio.git
-   
+   git clone https://github.com/SaifK05/Portfolio.git
+2. **Demo**:
+   --bash
+   portfolio-pzl2djj7a-saifk05s-projects.vercel.app
 Install dependencies: After cloning the repository, navigate into the project folder and install the necessary dependencies:
 npm install
 
